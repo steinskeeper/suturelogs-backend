@@ -30,7 +30,7 @@ To get started with the project, follow these steps:
 
 ## Frontend Repository
 
-The frontend code for the project is hosted here [https://github.com/steinskeeper/suturelogs-backend](https://github.com/steinskeeper/suturelogs-backend) , check it out for more details
+The frontend code for the project is hosted here [https://github.com/steinskeeper/suturelogs-frontend](https://github.com/steinskeeper/suturelogs-frontend) , check it out for more details
 
 ## Transcribe Server
 
